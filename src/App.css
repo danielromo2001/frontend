@@ -1,7 +1,7 @@
 body {
   font-family: Arial, sans-serif;
-  background: linear-gradient(135deg, #6a11cb, #1b1b1b);
-  color: white;
+  background: radial-gradient(circle, rgb(246, 250, 247) 0%, rgb(158, 12, 187) 0%, rgb(0, 4, 5) 100%);
+  color: rgb(247, 244, 244);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -39,7 +39,7 @@ h1 {
 }
 
 .save {
-  background: #28a745;
+  background: #2be256;
   color: white;
 }
 
